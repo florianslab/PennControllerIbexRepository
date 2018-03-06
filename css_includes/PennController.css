@@ -1,0 +1,16 @@
+.selected {
+    border: solid 2px green;
+}
+
+.PennController {
+	width: 40em;
+	margin: auto;
+}
+
+.PennController img {
+	margin: auto;
+}
+
+.PennController tr {
+	text-align: center;
+}
