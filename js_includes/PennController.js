@@ -1,5 +1,6 @@
 // TODOs
 //
+//  - Add a VIDEO controller
 //  - Add a general 'TIMEOUT: DELAY' setting
 //      Each instruction is done after DELAY after it was run (if not already done)
 //  - Add _ in front of 'private' methods
@@ -473,7 +474,7 @@ var PennController;
 
         // Sets when a WHEN instruction is done
         // By default: upon click if clickable, timer otherwise
-        whenToInsist(tryToValidate) {
+        _whenToInsist(tryToValidate) {
             let ti = this;
             if (this.origin.clickable)
                 this.origin.element.click(tryToValidate);
@@ -486,10 +487,10 @@ var PennController;
         // METHODS RETURNING NEW INSTRUCTIONS
         // ========================================
 
-        // Returns an instruction that runs ifFailure as long as conditionalFunction is not met
+        // Returns an instruction that runs ifFailure if conditionalFunction is not met
         // Done when source is done and conditionalFunction is met
         when(conditionalFunction, ifFailure) {
-            let instr = this.newMeta(function(){ 
+            return this.newMeta(function(){ 
                 // Instruction immediately done if condition met
                 if (conditionalFunction())
                     this.done();
@@ -503,16 +504,15 @@ var PennController;
                     // If ifFailure is a function, execute it
                     else if (ifFailure instanceof Function)
                         ifFailure();
+                    // Try to insist
+                    let ti = this;
+                    this._whenToInsist(function(){
+                        console.log("Trying to validate");
+                        if (!ti.isDone && conditionalFunction()) 
+                            ti.done();
+                    });
                 }
             });
-            let tryToValidate = function(){ 
-                console.log("Trying to validate");
-                if (!instr.isDone && conditionalFunction()) 
-                    instr.done();
-            };
-            console.log(instr.whenToInsist);
-            instr.whenToInsist(tryToValidate);
-            return instr;
         }
 
         // Converts into a META instruction
@@ -924,7 +924,7 @@ var PennController;
         }
 
         // Validate WHEN in origin's PRESSED
-        whenToInsist(tryToValidate) {
+        _whenToInsist(tryToValidate) {
             this.origin.pressed = this.origin.extend("pressed", tryToValidate);
         }
 
@@ -1117,7 +1117,7 @@ var PennController;
         }
 
         // Validate WHEN in origin's CLICKED
-        whenToInsist(tryToValidate) {
+        _whenToInsist(tryToValidate) {
             this.pressed = this.extend("clicked", tryToValidate);
         }
 

@@ -1,0 +1,421 @@
+
+#
+# Results on Monday February 26 2018 00:30:06 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 0
+#
+[false,0,["Controller name","Item number","Element number","Type","Group"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 00:51:22 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 1
+#
+[false,1,["Controller name","Item number","Element number","Type","Group"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 00:52:55 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 2
+#
+[false,2,["Controller name","Item number","Element number","Type","Group"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 01:02:10 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 3
+#
+[false,3,["Controller name","Item number","Element number","Type","Group"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 01:02:26 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 4
+#
+[false,4,["Controller name","Item number","Element number","Type","Group"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 01:09:41 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 5
+#
+[false,5,["Controller name","Item number","Element number","Type","Group"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 01:11:08 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 6
+#
+[false,6,["Controller name","Item number","Element number","Type","Group"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 01:13:08 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 7
+#
+[false,7,["Controller name","Item number","Element number","Type","Group"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 01:13:35 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 8
+#
+[false,8,["Controller name","Item number","Element number","Type","Group"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 01:21:59 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 9
+#
+[false,9,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519608118469],[8,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 01:22:47 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 10
+#
+[false,10,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519608167188],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"J"],[7,1519608167762],[8,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 01:23:04 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 11
+#
+[false,11,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519608183715],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"J"],[7,1519608184122],[8,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 05:18:07 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 12
+#
+[false,12,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519622281372],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"J"],[7,1519622287382],[8,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 05:33:35 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 13
+#
+[false,13,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"audio"],[6,"end"],[7,1519623210890],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519623210229],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"J"],[7,1519623215413],[8,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 05:35:29 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 14
+#
+[false,14,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"audio"],[6,"play"],[7,1519623322909],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"audio"],[6,"end"],[7,1519623323450],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519623322899],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"J"],[7,1519623329046],[8,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 05:37:36 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 15
+#
+[false,15,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519623455184],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519623455835],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519623455176],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"J"],[7,1519623456461],[8,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 05:38:29 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 16
+#
+[false,16,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519623507567],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519623508214],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519623507557],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"J"],[7,1519623509164],[8,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 05:38:46 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 17
+#
+[false,17,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519623525633],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519623526174],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519623525620],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"J"],[7,1519623526772],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 05:39:00 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 18
+#
+[false,18,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519623539086],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519623539628],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519623539076],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519623540155],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 05:39:19 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 19
+#
+[false,19,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519623555334],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519623555880],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519623555324],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"J"],[7,1519623559108],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 05:40:07 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 20
+#
+[false,20,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519623604329],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519623604978],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519623604323],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"J"],[7,1519623606409],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 05:59:59 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 21
+#
+[false,21,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519624798400],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519624799045],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519624798390],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"J"],[7,1519624799498],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 06:04:58 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 22
+#
+[false,22,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519625096710],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519625097358],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519625096701],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"J"],[7,1519625098261],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 06:16:15 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 23
+#
+[false,23,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519625761882],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519625762530],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519625761873],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"J"],[7,1519625764240],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 06:48:45 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 24
+#
+[false,24,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519627722192],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519627722840],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519627722181],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"J"],[7,1519627723747],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 06:50:15 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 25
+#
+[false,25,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519627811955],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519627812602],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519627811945],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519627813761],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 06:51:39 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 26
+#
+[false,26,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519627893523],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519627894165],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519627893511],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519627897246],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Monday February 26 2018 23:58:00 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 27
+#
+[false,27,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519689471429],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519689470719],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519689479625],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Tuesday February 27 2018 00:04:49 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 28
+#
+[false,28,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519689887387],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519689886708],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519689888603],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Tuesday February 27 2018 00:25:08 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 29
+#
+[false,29,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519691100520],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519691099838],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"test"],[6,"3"],[7,1519691107280],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519691108114],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Tuesday February 27 2018 00:26:12 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 30
+#
+[false,30,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519691171836],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519691171150],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,null],[7,null],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519691172543],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Tuesday February 27 2018 02:17:51 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 31
+#
+[false,31,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519697867838],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519697867159],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"3"],[7,1519697869352],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"J"],[7,1519697870716],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Tuesday February 27 2018 17:27:20 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 32
+#
+[false,32,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519752438944],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519752438273],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,null],[7,null],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519752439625],[8,"F or J"]]],"i8tIWGgjtsbwhvB0YjH4hw",true]
+#
+# Results on Tuesday February 27 2018 18:05:30 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 33
+#
+[false,33,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519754713682],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519754714323],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519754713651],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,null],[7,null],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519754729865],[8,"F or J"]]],"i8tIWGgjtsbwhvB0YjH4hw",true]
+#
+# Results on Tuesday February 27 2018 20:03:49 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 34
+#
+[false,34,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519761818032],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519761818676],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519761818001],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,null],[7,null],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519761819674],[8,"F or J"]]],"i8tIWGgjtsbwhvB0YjH4hw",true]
+#
+# Results on Tuesday February 27 2018 20:50:12 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 35
+#
+[false,35,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519764609575],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519764610232],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519764609546],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,null],[7,null],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519764611937],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Tuesday February 27 2018 20:57:24 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 36
+#
+[false,36,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519765042286],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519765042941],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519765042253],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,null],[7,null],[8,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Tuesday February 27 2018 20:57:54 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 37
+#
+[false,37,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519765072376],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519765072919],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519765072349],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,null],[7,null],[8,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Tuesday February 27 2018 21:06:21 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 38
+#
+[false,38,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519765575442],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519765576099],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519765575415],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"2"],[7,1519765580242],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,null],[7,1519765577319],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Tuesday February 27 2018 21:15:42 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 39
+#
+[false,39,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519766132554],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519766133098],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519766132527],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"2"],[7,1519766141672],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519766133944],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Tuesday February 27 2018 21:17:22 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 40
+#
+[false,40,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519766234664],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519766235324],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519766234636],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"2"],[7,1519766241588],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519766236197],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Tuesday February 27 2018 21:29:37 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 41
+#
+[false,41,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519766973400],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519766974056],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519766973369],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,null],[7,null],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519766974472],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Tuesday February 27 2018 21:30:21 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 42
+#
+[false,42,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519767015186],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519767015835],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519767015159],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1519767021687],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519767017504],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Tuesday February 27 2018 21:30:28 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 43
+#
+[false,43,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519767025507],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519767026049],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519767025479],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"4"],[7,1519767028112],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519767026607],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Tuesday February 27 2018 21:30:37 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 44
+#
+[false,44,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519767031250],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519767031781],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519767031214],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"4"],[7,1519767036804],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519767033344],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Tuesday February 27 2018 21:47:15 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+# Design number was non-random = 45
+#
+[false,45,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519768030729],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519768031220],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519768030707],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1519768035036],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519768033339],[8,"F or J"]]],"vmAm0G/xjgfdCvjcAJ4hTQ",true]
+#
+# Results on Tuesday February 27 2018 21:55:21 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 46
+#
+[false,46,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519768517460],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519768518109],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519768517429],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"4"],[7,1519768520609],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519768519005],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Tuesday February 27 2018 21:58:02 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 47
+#
+[false,47,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519768676254],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519768676911],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519768676225],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1519768679974],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519768677745],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Tuesday February 27 2018 21:58:41 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 48
+#
+[false,48,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519768716462],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519768717004],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519768716433],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"4"],[7,1519768719883],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519768718736],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Tuesday February 27 2018 21:59:11 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 49
+#
+[false,49,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519768744892],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519768745434],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519768744863],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1519768748336],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519768746062],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Tuesday February 27 2018 22:04:37 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 50
+#
+[false,50,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519769070442],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519769071100],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519769070414],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1519769074939],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519769071933],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Tuesday February 27 2018 22:04:50 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 51
+#
+[false,51,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519769080009],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519769080548],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519769079981],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1519769088575],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519769086664],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Tuesday February 27 2018 23:59:12 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 52
+#
+[false,52,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519775945705],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519775946249],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519775945677],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1519775950993],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519775948237],[8,"F or J"]]],"i8tIWGgjtsbwhvB0YjH4hw",true]
+#
+# Results on Wednesday February 28 2018 00:00:03 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 53
+#
+[false,53,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519775967423],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519775967966],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519775967396],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1519775997974],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519775974208],[8,"F or J"]]],"i8tIWGgjtsbwhvB0YjH4hw",true]
+#
+# Results on Wednesday February 28 2018 00:03:19 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 54
+#
+[false,54,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519776175395],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519776175941],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519776175368],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1519776184033],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519776181407],[8,"F or J"]]],"i8tIWGgjtsbwhvB0YjH4hw",true]
+#
+# Results on Wednesday February 28 2018 00:05:18 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 55
+#
+[false,55,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519776310631],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519776311176],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519776310603],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1519776315674],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519776312770],[8,"F or J"]]],"i8tIWGgjtsbwhvB0YjH4hw",true]
+#
+# Results on Wednesday February 28 2018 00:07:27 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 56
+#
+[false,56,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519776439029],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519776439573],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519776438999],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1519776442125],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519776440761],[8,"F or J"]]],"i8tIWGgjtsbwhvB0YjH4hw",true]
+#
+# Results on Wednesday February 28 2018 00:07:50 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 57
+#
+[false,57,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519776461226],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519776461770],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519776461202],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"4"],[7,1519776464695],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519776463030],[8,"F or J"]]],"i8tIWGgjtsbwhvB0YjH4hw",true]
+#
+# Results on Wednesday February 28 2018 00:11:53 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 58
+#
+[false,58,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519776701893],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519776702439],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519776701863],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1519776708168],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519776703250],[8,"F or J"]]],"i8tIWGgjtsbwhvB0YjH4hw",true]
+#
+# Results on Wednesday February 28 2018 00:12:29 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 59
+#
+[false,59,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519776741392],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519776741940],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519776741366],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1519776745603],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519776742821],[8,"F or J"]]],"i8tIWGgjtsbwhvB0YjH4hw",true]
+#
+# Results on Wednesday February 28 2018 00:12:44 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 60
+#
+[false,60,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519776757897],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519776758441],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519776757869],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1519776759929],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519776760253],[8,"F or J"]]],"i8tIWGgjtsbwhvB0YjH4hw",true]
+#
+# Results on Wednesday February 28 2018 00:12:54 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 61
+#
+[false,61,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519776767834],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519776768374],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519776767806],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1519776769106],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519776769333],[8,"F or J"]]],"i8tIWGgjtsbwhvB0YjH4hw",true]
+#
+# Results on Wednesday February 28 2018 03:53:42 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 62
+#
+[false,62,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519790010966],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519790011655],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519790010934],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1519790015662],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519790012752],[8,"F or J"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Wednesday February 28 2018 21:03:03 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 63
+#
+[false,63,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519851776258],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519851776903],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519851776226],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1519851778130],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519851779079],[8,"F or J"]]],"i8tIWGgjtsbwhvB0YjH4hw",true]
+#
+# Results on Wednesday February 28 2018 21:14:26 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+# Design number was non-random = 64
+#
+[false,64,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519852460931],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519852461439],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519852460914],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1519852462479],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519852462850],[8,"F or J"]]],"vmAm0G/xjgfdCvjcAJ4hTQ",true]
+#
+# Results on Wednesday February 28 2018 21:48:32 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+# Design number was non-random = 65
+#
+[false,65,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playstart"],[7,1519854504645],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3"],[6,"playend"],[7,1519854505135],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519854504591],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1519854509111],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519854509903],[8,"F or J"]]],"vmAm0G/xjgfdCvjcAJ4hTQ",true]
+#
+# Results on Thursday March 01 2018 22:00:14 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 66
+#
+[false,66,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519941604659],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1519941610023],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519941610499],[8,"F or J"]]],"i8tIWGgjtsbwhvB0YjH4hw",true]
+#
+# Results on Thursday March 01 2018 22:06:12 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+# Design number was non-random = 67
+#
+[false,67,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519941959974],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"4"],[7,1519941967338],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519941965214],[8,"F or J"]]],"vmAm0G/xjgfdCvjcAJ4hTQ",true]
+#
+# Results on Thursday March 01 2018 22:12:41 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 68
+#
+[false,68,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519942352900],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1519942358005],[8,"NULL"]],[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1519942358451],[8,"F or J"]]],"i8tIWGgjtsbwhvB0YjH4hw",true]
+#
+# Results on Friday March 02 2018 15:16:46 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 69
+#
+[false,69,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6," "],[7,1520003783538],[8,"NULL"]],[[0,"PennController"],[1,1],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1520003798049],[8,"NULL"]],[[0,"PennController"],[1,1],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"4"],[7,1520003803492],[8,"NULL"]],[[0,"PennController"],[1,1],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1520003801017],[8,"F or J"]]],"i8tIWGgjtsbwhvB0YjH4hw",true]

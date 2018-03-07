@@ -1,0 +1,1423 @@
+#
+# Results on Monday February 26 2018 00:30:06 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+1519605006,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL
+#
+# Results on Monday February 26 2018 00:51:22 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+1519606283,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL
+#
+# Results on Monday February 26 2018 00:52:55 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+1519606376,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL
+#
+# Results on Monday February 26 2018 01:02:10 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+1519606930,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL
+#
+# Results on Monday February 26 2018 01:02:26 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 4
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+1519606947,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL
+#
+# Results on Monday February 26 2018 01:09:41 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 5
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+1519607381,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL
+#
+# Results on Monday February 26 2018 01:11:08 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 6
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+1519607468,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL
+#
+# Results on Monday February 26 2018 01:13:08 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 7
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+1519607588,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL
+#
+# Results on Monday February 26 2018 01:13:35 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 8
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+1519607616,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL
+#
+# Results on Monday February 26 2018 01:21:59 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 9
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519608119,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519608118469,NULL
+#
+# Results on Monday February 26 2018 01:22:47 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 10
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519608168,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519608167188,NULL
+1519608168,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,J,1519608167762,NULL
+#
+# Results on Monday February 26 2018 01:23:04 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 11
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519608184,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519608183715,NULL
+1519608184,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,J,1519608184122,NULL
+#
+# Results on Monday February 26 2018 05:18:07 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 12
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519622288,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519622281372,NULL
+1519622288,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,J,1519622287382,NULL
+#
+# Results on Monday February 26 2018 05:33:35 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 13
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519623215,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,audio,end,1519623210890,NULL
+1519623215,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519623210229,NULL
+1519623215,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,J,1519623215413,NULL
+#
+# Results on Monday February 26 2018 05:35:29 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 14
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519623329,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,audio,play,1519623322909,NULL
+1519623329,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,audio,end,1519623323450,NULL
+1519623329,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519623322899,NULL
+1519623329,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,J,1519623329046,NULL
+#
+# Results on Monday February 26 2018 05:37:36 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 15
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519623456,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519623455184,NULL
+1519623456,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519623455835,NULL
+1519623456,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519623455176,NULL
+1519623456,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,J,1519623456461,NULL
+#
+# Results on Monday February 26 2018 05:38:29 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 16
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519623509,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519623507567,NULL
+1519623509,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519623508214,NULL
+1519623509,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519623507557,NULL
+1519623509,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,J,1519623509164,NULL
+#
+# Results on Monday February 26 2018 05:38:46 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 17
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519623527,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519623525633,NULL
+1519623527,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519623526174,NULL
+1519623527,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519623525620,NULL
+1519623527,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,J,1519623526772,F or J
+#
+# Results on Monday February 26 2018 05:39:00 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 18
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519623540,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519623539086,NULL
+1519623540,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519623539628,NULL
+1519623540,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519623539076,NULL
+1519623540,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519623540155,F or J
+#
+# Results on Monday February 26 2018 05:39:19 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 19
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519623559,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519623555334,NULL
+1519623559,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519623555880,NULL
+1519623559,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519623555324,NULL
+1519623559,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,J,1519623559108,F or J
+#
+# Results on Monday February 26 2018 05:40:07 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 20
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519623607,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519623604329,NULL
+1519623607,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519623604978,NULL
+1519623607,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519623604323,NULL
+1519623607,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,J,1519623606409,F or J
+#
+# Results on Monday February 26 2018 05:59:59 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 21
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519624800,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519624798400,NULL
+1519624800,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519624799045,NULL
+1519624800,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519624798390,NULL
+1519624800,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,J,1519624799498,F or J
+#
+# Results on Monday February 26 2018 06:04:58 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 22
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519625099,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519625096710,NULL
+1519625099,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519625097358,NULL
+1519625099,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519625096701,NULL
+1519625099,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,J,1519625098261,F or J
+#
+# Results on Monday February 26 2018 06:16:15 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 23
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519625775,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519625761882,NULL
+1519625775,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519625762530,NULL
+1519625775,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519625761873,NULL
+1519625775,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,J,1519625764240,F or J
+#
+# Results on Monday February 26 2018 06:48:45 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 24
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519627725,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519627722192,NULL
+1519627725,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519627722840,NULL
+1519627725,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519627722181,NULL
+1519627725,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,J,1519627723747,F or J
+#
+# Results on Monday February 26 2018 06:50:15 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 25
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519627815,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519627811955,NULL
+1519627815,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519627812602,NULL
+1519627815,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519627811945,NULL
+1519627815,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519627813761,F or J
+#
+# Results on Monday February 26 2018 06:51:39 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 26
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519627900,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519627893523,NULL
+1519627900,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519627894165,NULL
+1519627900,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519627893511,NULL
+1519627900,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519627897246,F or J
+#
+# Results on Monday February 26 2018 23:58:00 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 27
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519689481,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519689471429,NULL
+1519689481,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519689470719,NULL
+1519689481,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519689479625,F or J
+#
+# Results on Tuesday February 27 2018 00:04:49 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 28
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519689889,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519689887387,NULL
+1519689889,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519689886708,NULL
+1519689889,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519689888603,F or J
+#
+# Results on Tuesday February 27 2018 00:25:08 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 29
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519691109,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519691100520,NULL
+1519691109,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519691099838,NULL
+1519691109,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,test,3,1519691107280,NULL
+1519691109,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519691108114,F or J
+#
+# Results on Tuesday February 27 2018 00:26:12 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 30
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519691173,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519691171836,NULL
+1519691173,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519691171150,NULL
+1519691173,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,radios,None,None,NULL
+1519691173,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519691172543,F or J
+#
+# Results on Tuesday February 27 2018 02:17:51 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 31
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519697871,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519697867838,NULL
+1519697871,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519697867159,NULL
+1519697871,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,radios,3,1519697869352,NULL
+1519697871,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,J,1519697870716,F or J
+#
+# Results on Tuesday February 27 2018 17:27:20 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 32
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519752440,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519752438944,NULL
+1519752440,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519752438273,NULL
+1519752440,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,radios,None,None,NULL
+1519752440,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519752439625,F or J
+#
+# Results on Tuesday February 27 2018 18:05:30 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 33
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519754730,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519754713682,NULL
+1519754730,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519754714323,NULL
+1519754730,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519754713651,NULL
+1519754730,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,radios,None,None,NULL
+1519754730,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519754729865,F or J
+#
+# Results on Tuesday February 27 2018 20:03:49 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 34
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519761830,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519761818032,NULL
+1519761830,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519761818676,NULL
+1519761830,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519761818001,NULL
+1519761830,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,radios,None,None,NULL
+1519761830,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519761819674,F or J
+#
+# Results on Tuesday February 27 2018 20:50:12 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 35
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519764613,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519764609575,NULL
+1519764613,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519764610232,NULL
+1519764613,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519764609546,NULL
+1519764613,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,radios,None,None,NULL
+1519764613,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519764611937,F or J
+#
+# Results on Tuesday February 27 2018 20:57:24 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 36
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519765044,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519765042286,NULL
+1519765044,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519765042941,NULL
+1519765044,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519765042253,NULL
+1519765044,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,radios,None,None,NULL
+#
+# Results on Tuesday February 27 2018 20:57:54 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 37
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519765074,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519765072376,NULL
+1519765074,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519765072919,NULL
+1519765074,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519765072349,NULL
+1519765074,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,radios,None,None,NULL
+#
+# Results on Tuesday February 27 2018 21:06:21 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 38
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519765582,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519765575442,NULL
+1519765582,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519765576099,NULL
+1519765582,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519765575415,NULL
+1519765582,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,radios,2,1519765580242,NULL
+1519765582,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,None,1519765577319,F or J
+#
+# Results on Tuesday February 27 2018 21:15:42 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 39
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519766142,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519766132554,NULL
+1519766142,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519766133098,NULL
+1519766142,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519766132527,NULL
+1519766142,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,radios,2,1519766141672,NULL
+1519766142,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519766133944,F or J
+#
+# Results on Tuesday February 27 2018 21:17:22 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 40
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519766242,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519766234664,NULL
+1519766242,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519766235324,NULL
+1519766242,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519766234636,NULL
+1519766242,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,radios,2,1519766241588,NULL
+1519766242,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519766236197,F or J
+#
+# Results on Tuesday February 27 2018 21:29:37 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 41
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519766977,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519766973400,NULL
+1519766977,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519766974056,NULL
+1519766977,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519766973369,NULL
+1519766977,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,radios,None,None,NULL
+1519766977,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519766974472,F or J
+#
+# Results on Tuesday February 27 2018 21:30:21 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 42
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519767022,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519767015186,NULL
+1519767022,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519767015835,NULL
+1519767022,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519767015159,NULL
+1519767022,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,radios,0,1519767021687,NULL
+1519767022,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519767017504,F or J
+#
+# Results on Tuesday February 27 2018 21:30:28 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 43
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519767028,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519767025507,NULL
+1519767028,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519767026049,NULL
+1519767028,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519767025479,NULL
+1519767028,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,radios,4,1519767028112,NULL
+1519767028,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519767026607,F or J
+#
+# Results on Tuesday February 27 2018 21:30:37 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 44
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519767037,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519767031250,NULL
+1519767037,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519767031781,NULL
+1519767037,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519767031214,NULL
+1519767037,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,radios,4,1519767036804,NULL
+1519767037,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519767033344,F or J
+#
+# Results on Tuesday February 27 2018 21:47:15 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+# Design number was non-random = 45
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519768035,e4031f9c0d8dd4f3ad2e1d513db9f63b,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519768030729,NULL
+1519768035,e4031f9c0d8dd4f3ad2e1d513db9f63b,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519768031220,NULL
+1519768035,e4031f9c0d8dd4f3ad2e1d513db9f63b,PennController,0,0,test,NULL,keypress,F,1519768030707,NULL
+1519768035,e4031f9c0d8dd4f3ad2e1d513db9f63b,PennController,0,0,test,NULL,radios,0,1519768035036,NULL
+1519768035,e4031f9c0d8dd4f3ad2e1d513db9f63b,PennController,0,0,test,NULL,keypress,F,1519768033339,F or J
+#
+# Results on Tuesday February 27 2018 21:55:21 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 46
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519768521,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519768517460,NULL
+1519768521,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519768518109,NULL
+1519768521,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519768517429,NULL
+1519768521,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,radios,4,1519768520609,NULL
+1519768521,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519768519005,F or J
+#
+# Results on Tuesday February 27 2018 21:58:02 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 47
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519768683,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519768676254,NULL
+1519768683,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519768676911,NULL
+1519768683,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519768676225,NULL
+1519768683,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,radios,0,1519768679974,NULL
+1519768683,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519768677745,F or J
+#
+# Results on Tuesday February 27 2018 21:58:41 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 48
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519768721,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519768716462,NULL
+1519768721,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519768717004,NULL
+1519768721,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519768716433,NULL
+1519768721,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,radios,4,1519768719883,NULL
+1519768721,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519768718736,F or J
+#
+# Results on Tuesday February 27 2018 21:59:11 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 49
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519768751,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519768744892,NULL
+1519768751,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519768745434,NULL
+1519768751,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519768744863,NULL
+1519768751,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,radios,0,1519768748336,NULL
+1519768751,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519768746062,F or J
+#
+# Results on Tuesday February 27 2018 22:04:37 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 50
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519769077,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519769070442,NULL
+1519769077,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519769071100,NULL
+1519769077,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519769070414,NULL
+1519769077,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,radios,0,1519769074939,NULL
+1519769077,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519769071933,F or J
+#
+# Results on Tuesday February 27 2018 22:04:50 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 51
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519769090,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519769080009,NULL
+1519769090,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519769080548,NULL
+1519769090,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519769079981,NULL
+1519769090,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,radios,0,1519769088575,NULL
+1519769090,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519769086664,F or J
+#
+# Results on Tuesday February 27 2018 23:59:12 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 52
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519775953,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519775945705,NULL
+1519775953,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519775946249,NULL
+1519775953,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519775945677,NULL
+1519775953,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,radios,0,1519775950993,NULL
+1519775953,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519775948237,F or J
+#
+# Results on Wednesday February 28 2018 00:00:03 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 53
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519776003,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519775967423,NULL
+1519776003,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519775967966,NULL
+1519776003,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519775967396,NULL
+1519776003,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,radios,0,1519775997974,NULL
+1519776003,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519775974208,F or J
+#
+# Results on Wednesday February 28 2018 00:03:19 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 54
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519776200,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519776175395,NULL
+1519776200,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519776175941,NULL
+1519776200,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519776175368,NULL
+1519776200,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,radios,0,1519776184033,NULL
+1519776200,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519776181407,F or J
+#
+# Results on Wednesday February 28 2018 00:05:18 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 55
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519776318,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519776310631,NULL
+1519776318,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519776311176,NULL
+1519776318,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519776310603,NULL
+1519776318,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,radios,0,1519776315674,NULL
+1519776318,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519776312770,F or J
+#
+# Results on Wednesday February 28 2018 00:07:27 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 56
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519776448,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519776439029,NULL
+1519776448,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519776439573,NULL
+1519776448,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519776438999,NULL
+1519776448,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,radios,0,1519776442125,NULL
+1519776448,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519776440761,F or J
+#
+# Results on Wednesday February 28 2018 00:07:50 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 57
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519776471,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519776461226,NULL
+1519776471,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519776461770,NULL
+1519776471,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519776461202,NULL
+1519776471,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,radios,4,1519776464695,NULL
+1519776471,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519776463030,F or J
+#
+# Results on Wednesday February 28 2018 00:11:53 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 58
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519776713,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519776701893,NULL
+1519776713,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519776702439,NULL
+1519776713,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519776701863,NULL
+1519776713,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,radios,0,1519776708168,NULL
+1519776713,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519776703250,F or J
+#
+# Results on Wednesday February 28 2018 00:12:29 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 59
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519776750,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519776741392,NULL
+1519776750,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519776741940,NULL
+1519776750,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519776741366,NULL
+1519776750,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,radios,0,1519776745603,NULL
+1519776750,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519776742821,F or J
+#
+# Results on Wednesday February 28 2018 00:12:44 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 60
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519776764,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519776757897,NULL
+1519776764,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519776758441,NULL
+1519776764,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519776757869,NULL
+1519776764,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,radios,0,1519776759929,NULL
+1519776764,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519776760253,F or J
+#
+# Results on Wednesday February 28 2018 00:12:54 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 61
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519776775,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519776767834,NULL
+1519776775,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519776768374,NULL
+1519776775,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519776767806,NULL
+1519776775,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,radios,0,1519776769106,NULL
+1519776775,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519776769333,F or J
+#
+# Results on Wednesday February 28 2018 03:53:42 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 62
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519790022,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519790010966,NULL
+1519790022,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519790011655,NULL
+1519790022,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519790010934,NULL
+1519790022,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,radios,0,1519790015662,NULL
+1519790022,241bc28e1dd8a29599f38288e804e085,PennController,0,0,test,NULL,keypress,F,1519790012752,F or J
+#
+# Results on Wednesday February 28 2018 21:03:03 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 63
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519851784,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519851776258,NULL
+1519851784,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519851776903,NULL
+1519851784,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519851776226,NULL
+1519851784,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,radios,0,1519851778130,NULL
+1519851784,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519851779079,F or J
+#
+# Results on Wednesday February 28 2018 21:14:26 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+# Design number was non-random = 64
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519852467,e4031f9c0d8dd4f3ad2e1d513db9f63b,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519852460931,NULL
+1519852467,e4031f9c0d8dd4f3ad2e1d513db9f63b,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519852461439,NULL
+1519852467,e4031f9c0d8dd4f3ad2e1d513db9f63b,PennController,0,0,test,NULL,keypress,F,1519852460914,NULL
+1519852467,e4031f9c0d8dd4f3ad2e1d513db9f63b,PennController,0,0,test,NULL,radios,0,1519852462479,NULL
+1519852467,e4031f9c0d8dd4f3ad2e1d513db9f63b,PennController,0,0,test,NULL,keypress,F,1519852462850,F or J
+#
+# Results on Wednesday February 28 2018 21:48:32 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+# Design number was non-random = 65
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519854513,e4031f9c0d8dd4f3ad2e1d513db9f63b,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playstart,1519854504645,NULL
+1519854513,e4031f9c0d8dd4f3ad2e1d513db9f63b,PennController,0,0,test,NULL,http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3,playend,1519854505135,NULL
+1519854513,e4031f9c0d8dd4f3ad2e1d513db9f63b,PennController,0,0,test,NULL,keypress,F,1519854504591,NULL
+1519854513,e4031f9c0d8dd4f3ad2e1d513db9f63b,PennController,0,0,test,NULL,radios,0,1519854509111,NULL
+1519854513,e4031f9c0d8dd4f3ad2e1d513db9f63b,PennController,0,0,test,NULL,keypress,F,1519854509903,F or J
+#
+# Results on Thursday March 01 2018 22:00:14 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 66
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519941614,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519941604659,NULL
+1519941614,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,radios,0,1519941610023,NULL
+1519941614,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519941610499,F or J
+#
+# Results on Thursday March 01 2018 22:06:12 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+# Design number was non-random = 67
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519941972,e4031f9c0d8dd4f3ad2e1d513db9f63b,PennController,0,0,test,NULL,keypress,F,1519941959974,NULL
+1519941972,e4031f9c0d8dd4f3ad2e1d513db9f63b,PennController,0,0,test,NULL,radios,4,1519941967338,NULL
+1519941972,e4031f9c0d8dd4f3ad2e1d513db9f63b,PennController,0,0,test,NULL,keypress,F,1519941965214,F or J
+#
+# Results on Thursday March 01 2018 22:12:41 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 68
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1519942362,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519942352900,NULL
+1519942362,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,radios,0,1519942358005,NULL
+1519942362,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress,F,1519942358451,F or J
+#
+# Results on Friday March 02 2018 15:16:46 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 69
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Parameter.
+# 9. Value.
+# 10. Time.
+# 11. Comment.
+1520003806,c33142f9debbaa4efb44576e141057f7,PennController,0,0,test,NULL,keypress, ,1520003783538,NULL
+1520003806,c33142f9debbaa4efb44576e141057f7,PennController,1,0,test,NULL,keypress,F,1520003798049,NULL
+1520003806,c33142f9debbaa4efb44576e141057f7,PennController,1,0,test,NULL,radios,4,1520003803492,NULL
+1520003806,c33142f9debbaa4efb44576e141057f7,PennController,1,0,test,NULL,keypress,F,1520003801017,F or J
