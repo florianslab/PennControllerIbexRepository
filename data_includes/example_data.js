@@ -104,7 +104,7 @@ var items = [
       t("Will you have time to read this text before the audio playback is cut off in the middle?")
       ,
       // Proceed after 500ms from the start of playback (no WAIT instruction to the audio)
-      t(500).wait()
+      t(1000).wait()
 
   )]
       
