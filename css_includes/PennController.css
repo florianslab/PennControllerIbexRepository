@@ -14,3 +14,11 @@
 .PennController tr {
 	text-align: center;
 }
+
+.clickable {
+	color: blue;
+}
+
+span.clickable:hover {
+	cursor: pointer;
+}

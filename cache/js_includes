@@ -1216,6 +1216,7 @@ var PennController;
                                 // Add the file as preloaded only if can play through
                                 AddPreloadedFile(file, audio);
                             });
+                        audio.attr("preload", "auto");
                     }
                     // IMAGE
                     else if (extension.match(/gif|png|jpe?g/i)) {
@@ -1257,6 +1258,7 @@ var PennController;
         done() {
             if (this.isDone || !this.hasBeenRun)
                 return Abort;
+            // If instruction was called with WHEN clear any timeout
             if (this.itvlWhen)
                 clearInterval(this.itvlWhen);
             this.isDone = true;
@@ -1308,6 +1310,8 @@ var PennController;
         // Done when source is done and conditionalFunction is met
         when(conditionalFunction, ifFailure) {
             return this.newMeta(function(){ 
+                console.log("CHECKING WHEN");
+                console.log(conditionalFunction());
                 // Instruction immediately done if condition met
                 if (conditionalFunction())
                     this.done();
@@ -1338,9 +1342,9 @@ var PennController;
             // This will be called after source is run (actual running of this instruction)
             instr.sourceCallback = function(){
                 console.log("CALLING SOURCE CALLBACK");
+                instr.hasBeenRun = true;
                 if (typeof callback == "function")
                     callback.apply(instr, arguments);
-                instr.hasBeenRun = true;
             };
             instr.before = function(){
                 if (typeof before == "function")
@@ -1398,6 +1402,34 @@ var PennController;
                     else
                         where.origin.element.after(this.origin.element);
                 }
+                this.done();
+            });
+        }
+
+        // Returns an instruction to shift X & Y's offsets
+        // Done immediately
+        shift(x, y) {
+            return this.newMeta(function(){
+                if (this.origin.element.css("position").match(/static|relative/)) {
+                    this.origin.element.css("position", "relative");
+                    this.origin.element.css({left: x, top: y});
+                }
+                else if (this.origin.element.css("position") == "absolute") {
+                    this.origin.element.css({
+                        left: this.origin.element.css("left")+x,
+                        top: this.origin.element.css("top")+y
+                    });
+                }
+                this.done();
+            });
+        }
+
+        // Returns an instruction to dynamically change css
+        // Done immediately
+        css() {
+            let arg = arguments;
+            return this.newMeta(function(){
+                this.origin.element.css.apply(this.origin.element, arg);
                 this.done();
             });
         }
@@ -2016,7 +2048,7 @@ var PennController;
 
 
     // Adds a timer
-    // Done when timer has ellapsed
+    // Done immediately
     class TimerInstr extends Instruction {
         constructor(delay, callback) {
             super(delay, "timer");
@@ -2040,15 +2072,20 @@ var PennController;
                 if (ti.left <= 0){
                     clearInterval(ti.timer);
                     ti.left = 0;
-                    if (ti.callback instanceof Function)
-                        ti.callback();
-                    else if (ti.callback instanceof Instruction) {
-                        ti.callback.parentElement = _ctrlr.element;
-                        ti.callback.run();
-                    }
-                    ti.done();
+                    ti._elapsed();
                 }
             }, this.step);
+            this.done();
+        }
+
+        // Called when timer has elapsed
+        _elapsed() {
+            if (this.callback instanceof Function)
+                this.callback();
+            else if (this.callback instanceof Instruction) {
+                this.callback.parentElement = _ctrlr.element;
+                this.callback.run();
+            }
         }
 
         // ========================================
@@ -2075,7 +2112,16 @@ var PennController;
             this.origin.step = value;
             // Return the instruction itself
             return this.newMeta(function(){ this.done(); });
-        }    
+        }
+
+        // Returns an instruction to sait until the timer has elapsed
+        // Done when the timer has elapsed
+        wait() {
+            return this.newMeta(function(){
+                let ti = this;
+                this.origin._elapsed = this.origin.extend("_elapsed", function(){ ti.done(); });
+            });
+        }
     }
 
 
@@ -2422,7 +2468,7 @@ var PennController;
     // t.waitUntil = function(condition){ return new WaitInstr(condition); };
     PennController.instruction.timer = function(delay, callback){ return new TimerInstr(delay, callback); };
     PennController.instruction.radioButtons = function(label, length){ return new RadioInstr(label, length); };
-    PennController.instruction.clear = function(label, length){ return new ClearInstr(); };
+    PennController.instruction.clear = function(){ return new ClearInstr(); };
     PennController.instruction.selector = function(){ return new SelectorInstr(arguments); };
 
     

@@ -419,3 +419,39 @@
 # Design number was non-random = 69
 #
 [false,69,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6," "],[7,1520003783538],[8,"NULL"]],[[0,"PennController"],[1,1],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1520003798049],[8,"NULL"]],[[0,"PennController"],[1,1],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"4"],[7,1520003803492],[8,"NULL"]],[[0,"PennController"],[1,1],[2,0],[3,"test"],[4,"NULL"],[5,"keypress"],[6,"F"],[7,1520003801017],[8,"F or J"]]],"i8tIWGgjtsbwhvB0YjH4hw",true]
+#
+# Results on Wednesday March 07 2018 20:10:46 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 70
+#
+[false,70,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1520453441187],[8,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Wednesday March 07 2018 20:17:06 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 71
+#
+[false,71,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"1"],[7,1520453811680],[8,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Wednesday March 07 2018 20:31:30 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 72
+#
+[false,72,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"3"],[7,1520454685410],[8,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Wednesday March 07 2018 22:15:22 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 73
+#
+[false,73,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"0"],[7,1520460915712],[8,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Wednesday March 07 2018 22:41:48 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 74
+#
+[false,74,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"4"],[7,1520462499489],[8,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]
+#
+# Results on Wednesday March 07 2018 23:04:10 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+# Design number was non-random = 75
+#
+[false,75,["Controller name","Item number","Element number","Type","Group","Parameter","Value","Time","Comment"],[[[0,"PennController"],[1,0],[2,0],[3,"test"],[4,"NULL"],[5,"radios"],[6,"1"],[7,1520463841660],[8,"NULL"]]],"Ay8wHeiTX4nzAuzm7ysUag",true]

@@ -76,6 +76,12 @@
 .PennController-PennController tr {
 	text-align: center;
 }
+.PennController-clickable {
+	color: blue;
+}
+span.PennController-clickable:hover {
+	cursor: pointer;
+}
 
 
 .Question-Question {

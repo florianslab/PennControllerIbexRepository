@@ -7,227 +7,104 @@ PennController.PreloadZip("http://files.lab.florianschwarz.net/ibexfiles/PsEntAl
 // Much quicker to type T than to type PennController.instruction each time
 var t = PennController.instruction;
 
-// Disabling autopreload for test purposes
-/*PennController.AutoPreload({
-                                images: false,
-                                audio: false
-});*/
-
 // Setting items is standard
 var items = [
 
-  // The only difference is you call PennController instead of giving an options object
+  // You call PennController instead of giving an object of options
   ["test", "PennController", PennController(
 
-      /*t("23.wav")
-      ,*/
+      // Simply add a line of text
+      // Setting a variable for future reference
+      pressToStart = 
+        t("Press any key to start playing the sound")
+      ,
+      // Waiting for any keypress before continuing
+      t.key()
+      ,
+      // Remove the text associated with the variable pressToStart
+      pressToStart.remove()
+      ,
+      whileListening = 
+        t("Please wait while the audio is playing..")
+      ,
+      // Play a WAV file (from the zip file) and wait until it's been played
       t("23.wav")
         .wait()
       ,
-      sometext = t("Some text")
-      // Linebreaks before and after commas to clearly signal instructions steps
+      whileListening.remove()
       ,
-      bakeryImage = t("http://files.lab.florianschwarz.net/ibexfiles/Pictures/bakery.png")
-                      .click( t(
-                                  goodjob = t("Good job!")
-                                    .j.css({position: "relative", left: "50px", top: "-75px", background: "yellow"})
-                                  ,
-                                  t.timer(1500, goodjob.remove())
-                                )
-                      )
-                      .preload()
+      pleaseClick = 
+        t("Please click on the picture below")
       ,
-      pressf = t("Press F")
+      // Add an image on which you have to click before continuing (click removes pleaseClick's text)
+      bakeryImage = 
+        t("http://files.lab.florianschwarz.net/ibexfiles/Pictures/bakery.png").click(pleaseClick.remove())
       ,
-      key = t.key("F").save()
+      // Reward the click with a "Good job!" fancy message
+      goodjob = 
+        t("Good job!").shift(50, -75).css("background", "yellow")
       ,
-      t.clear()
+      // Remove goodjob's message after 1500ms
+      t.timer(1500, goodjob.remove())
       ,
-      //t("http://files.lab.florianschwarz.net/ibexfiles/PSEnt/Audio/kid_Also_baseball_cap.wav")
-      //  .wait()
-      //,
-      scaleLine = t(
-                      t("text left"),
-                      scale = t.radioButtons('radios',5).save(),
-                      t("text right")
-                  )
+      // This is executed right away (no WAIT instruction to the timer)
+      t("How do you like the PennController so far?")
       ,
-      /*t.audio("http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/duck.mp3")
-        .wait()
-        .save()
-      ,*/
-      pressforj = t("Press F or J")
-      ,
-      t.key("FJ").save("F or J")
-      ,
-      pressforj.remove()
-      ,
-      keyvalidation = t("Now press any key")
-      ,
-      t.key().when(
-          scale.selected([0,4]),
-          t(
-            warning = t("<p>Select an end button before pressing a key.</p>")
-              .move(scaleLine)
-              .j.css({color: "red", "font-weight": "bold"})
-            ,
-            scale.click( warning.remove() )
+      // Group three elements on the same line
+      scaleLine = 
+        t(
+              t("hate it"),
+              // Add a 5 radio button scale (and save the final choice)
+              scale = t.radioButtons('radios',5).save(),
+              t("love it")
           )
-      )
       ,
-      keyvalidation.remove()
+      clickHere = 
+        t("Click here to continue.")
+          .click()  // Click the text before continuing
+          .when(
+                  scale.selected(), // But continue only if a radio button is selected
+                  t(
+                      // If not, add a warning message
+                      warning = t("Please select a response before proceeding.")
+                                    .css({color: "red", "font-weight": "bold"})
+                                    .move(scaleLine)
+                      ,
+                      // Remove the warning message upon click on the scale
+                      scale.click(warning.remove())
+                  )
+          )
       ,
-      t("Click here to end").click()
-
-  )],
-
-
-  ["test", "PennController", PennController(
-
-      sentence = t("These four aliens had to leave their home planet. "+
-                   "While in transit on Planet XR, nothing happened to their color. "+
-                   "Then they moved on to Planet PH.")
+      clickHere.remove()
       ,
-      /*t(
-          //blue = t("alien_blue.png").j.css({width: "20px", height: "100px"}),
-          blue = t("alien_blue.png").resize("20px", "100px"),
-          //red = t("alien_red.png").j.css({width: "20px", height: "100px"})
-          red = t("alien_red.png").resize("20px", "100px")
-      )
-      ,*/
-      t(
-          firstRow = t(   
-                          t("F").j.css("font-weight","bold")
-                          , 
-                          t("J").j.css("font-weight","bold")
-                      ).hide()
-          ,
-          secondRow = t(  
-                          blueA = t("alien_blue.png").resize("20px", "100px")
-                          ,
-                          redA = t("alien_red.png").resize("20px", "100px")
-                      )
-      )
+      t("Now please select one of the two pictures on the screen using your mouse.")
       ,
-      sel = t.selector(blueA, redA)
-              .shuffle()
-              .enable(false)
+      beachImage = 
+        t("http://files.lab.florianschwarz.net/ibexfiles/Pictures/beach.png")
       ,
-      pressspace = t("Press space")
+      // The images associated with the two variables now belong to a group
+      // Wait for one to be selected (by clicking -- default) before continuing
+      bakeryOrbeach = 
+        t.selector(bakeryImage, beachImage).wait()
       ,
+      pressSpaceContinue = 
+        t("Press Space to continue")
+      ,
+      // Wait for a keypress on the spacebar before continuing
       t.key(" ")
-        .save()
       ,
-      t(150)
+      pressSpaceContinue.remove()
       ,
-      sentence.remove()
+      // Disable selection of images (choice is now final)
+      bakeryOrbeach.enable(false)
       ,
-      pressspace.remove()
+      // Play a sound from a distant URL
+      t("https://github.com/florianslab/PennControllerIbexRepository/raw/master/practice1.wav")
       ,
-      t(550)
+      t("Will you have time to read this text before the audio playback is cut off in the middle?")
       ,
-      audio = t("23.wav")
-          .wait()
-      ,
-      firstRow.hide(false)
-      ,
-      forj = t("Press F or J")
-      ,
-      sel
-        .enable()
-        .keys("FJ")
-        .clickable(false)
-        .once()
-        .wait()
-      ,
-      forj.remove()
-      ,
-      firstRow.hide()
-      ,
-      t(1000)
-      ,
-      t("Press any key")
-      ,
-      t.key()
-
-  )],
-
-
-
-  ["test", "PennController", PennController(
-
-
-      /*t(
-          blue = t("alien_blue.png").resize("20px", "100px"),
-          //red = t("alien_red.png").j.css({width: "20px", height: "100px"})
-          red = t("alien_red.png").resize("20px", "100px")
-      )
-      ,*/
-
-      slc = t.selector(
-          blue = t("alien_blue.png").resize("20px", "100px"),
-          red = t("alien_red.png").resize("20px", "100px")
-      )
-          .enable(false)
-          .shuffle()
-          .keys("FJ")
-          .clickable(false)
-          .once()
-      ,
-      sentence = t("These four aliens had to leave their home planet. "+
-                   "While in transit on Planet XR, nothing happened to their color. "+
-                   "Then they moved on to Planet PH.")
-      ,
-      /*t(
-          //blue = t("alien_blue.png").j.css({width: "20px", height: "100px"}),
-          blue = t("alien_blue.png").resize("20px", "100px"),
-          //red = t("alien_red.png").j.css({width: "20px", height: "100px"})
-          red = t("alien_red.png").resize("20px", "100px")
-      )
-      ,*/
-      pressspace = t("Press space")
-      ,
-      t.key(" ")
-        .save()
-      ,
-      t(150)
-      ,
-      sentence.remove()
-      ,
-      pressspace.remove()
-      ,
-      t(550)
-      ,
-      audio = t("23.wav")
-          .wait()
-      ,
-      t("Press F or J")
-      ,
-      slc
-        .enable(true)
-        .wait()
-      ,
-      console.log(slc)
-      ,
-      t(1000)
-      ,
-      t("Press any key")
-      ,
-      t.key()
-
-  )],
-
-
-  ["test", "PennController", PennController(
-
-      sometext = t("This is another test")
-      ,
-      t(
-          key = t("Click here").click()
-          , 
-          t(" (clicking here will have no effect)").click()
-      )
-      .validation("all")
+      // Proceed after 500ms from the start of playback (no WAIT instruction to the audio)
+      t(500).wait()
 
   )]
       
